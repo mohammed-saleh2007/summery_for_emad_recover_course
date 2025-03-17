@@ -1,3 +1,8 @@
 {
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Noto Sans Arabic,Noto Kufi Arabic,Noto Naskh Arabic",
+  "textFontFamily": "Noto Naskh Arabic,Noto Sans Arabic",
+  "baseFontSize": 23,
+  "baseFontSizeAction": true,
+  "nativeMenus": true
 }
